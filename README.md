@@ -2,13 +2,15 @@
   <br>
   <img width="150" src="https://user-images.githubusercontent.com/5698566/230345149-ef757e51-6eb9-479d-94f5-a13e4ad33b03.png">
   <br>
-  Kasm Workspaces Registry
+  Dharun Krishna's Kasm Workspaces Registry
   <br>
 </h1>
 
-<p align="center">This repository is a template you can use to create your own registry that will work with Kasm Workspaces. A front end website is automatically generated for you and will look similar to the one below.</p>
+This repository contains the Kasm Workspaces Registry indexing my [custom images](https://github.com/kbdharun/kasm-images) for development and miscellaneous things.
 
-![image](https://user-images.githubusercontent.com/5698566/230064289-9e8967a1-4ff9-43f3-8495-f4170c23a80f.png)
+## Features
+
+Ready to use images for development with popular programming languages and tools preinstalled.
 
 ## Contents
 
